@@ -11,6 +11,4 @@ KeyBase: https://keybase.io/0spin
 
 Medium: https://medium.com/@0spin
 
-GitHub: https://github.com/0spin-validator
-
 Linkedin: https://www.linkedin.com/in/amir-alleni-9605a5318/
